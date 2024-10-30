@@ -1,0 +1,15 @@
+C:\Users\9698182\Desktop\CifrarioDiCesare\bin\Debug\net6.0\CifrarioDiCesare.exe
+C:\Users\9698182\Desktop\CifrarioDiCesare\bin\Debug\net6.0\CifrarioDiCesare.deps.json
+C:\Users\9698182\Desktop\CifrarioDiCesare\bin\Debug\net6.0\CifrarioDiCesare.runtimeconfig.json
+C:\Users\9698182\Desktop\CifrarioDiCesare\bin\Debug\net6.0\CifrarioDiCesare.dll
+C:\Users\9698182\Desktop\CifrarioDiCesare\bin\Debug\net6.0\CifrarioDiCesare.pdb
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.csproj.AssemblyReference.cache
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.AssemblyInfoInputs.cache
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.AssemblyInfo.cs
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.csproj.CoreCompileInputs.cache
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.dll
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\refint\CifrarioDiCesare.dll
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.pdb
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\CifrarioDiCesare.genruntimeconfig.cache
+C:\Users\9698182\Desktop\CifrarioDiCesare\obj\Debug\net6.0\ref\CifrarioDiCesare.dll
