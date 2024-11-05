@@ -4,6 +4,9 @@ char funzione;
 string ou = "";
 while (true)
 {
+    Console.WriteLine("Premi a per fermarti");
+    if (Console.ReadLine() == "a")
+        break;
     Console.WriteLine("Inserisci il testo: ");
     inp = Console.ReadLine();
 
@@ -18,34 +21,46 @@ while (true)
     switch (funzione)
     {
         case 'c':
-            CifraCesare(inp, chiave);
+            ou = CifraCesare(inp, chiave);
             break;
         case 'd':
-            DecifraCesare(inp, chiave);
+            ou = DecifraCesare(inp, chiave);
             break;
     }
-    break;
+    Console.Write("\n");
+    Console.WriteLine(ou);
 }
-
-
-
-
-
-
-
 
 
 
 string CifraCesare(string s, int c)
 {
+    string risultato = "";
+    s = s.ToLower();
 
+    foreach (char ch in s)
+    {
+        if (ch + c < 123)
+            risultato += (char)(ch + c);
+        else
+            risultato += (char)(97 + (ch + c - 122));
+    }
 
-    return;
+    return risultato;
 }
 
 string DecifraCesare(string s, int c)
 {
+    string risultato = "";
+    s = s.ToLower();
 
+    foreach (char ch in s)
+    {
+        if (ch - c > 96)
+            risultato += (char)(ch - c);
+        else
+            risultato += (char)(122 - (ch - c + 97));
+    }
 
-    return;
+    return risultato;
 }

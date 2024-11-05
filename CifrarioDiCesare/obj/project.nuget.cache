@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jEIOYnchsSOs03DNOh7vhsD3G+/GE15tI4yPyrvFzx7TXPcfFWzPsVmDtRejiLDKgu6mFCJwKKcpdhWf6xH/7A==",
+  "dgSpecHash": "C5aE3qlXGk3LdgHEebVj/6Ws8+yKEbcx2hE49z1WcLOPeE6tI2s7RN+c7fYD+b+l7twG4YTQx29ROt0EzlQq3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\9698182\\Desktop\\CifrarioDiCesare\\CifrarioDiCesare.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\9698182\\Desktop\\Nuova cartella\\CifrarioDiCesare\\CifrarioDiCesare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9698182\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698182\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698182\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\9698182\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
